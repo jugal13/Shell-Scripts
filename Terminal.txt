@@ -321,7 +321,7 @@ HOMEBREW PACKAGE MANAGER (For macOS, for linux look up Linux-brew fork of homebr
 		1. brew install package (installs package)
 		2. brew uninstall package (unintalls package)
 		3. brew update (updates brew repos)
-		4. brew upgrade (upgrades pages)
+		4. brew upgrade (upgrades packages)
 		5. brew cleanup (cleans up cache and old files)
 		6. brew info package (gives info about the installed package)
 		7. brew list (gives list of packages installed)
@@ -334,6 +334,7 @@ HOMEBREW PACKAGE MANAGER (For macOS, for linux look up Linux-brew fork of homebr
 		3. lolcat
 		4. fortune
 		5. python/python3
+		6. sl
 
 NODE PACKAGE MANAGER
 	Node package manager works on node and npm
@@ -342,6 +343,7 @@ NODE PACKAGE MANAGER
 		2. npm -v (lists npm version)
 		3. sudo npm install -g @angular/cli (install angular cli client globally)
 		4. sudo npm install -g create-react-app (install react cli client globally)
+		5. sudo npm install -g @vue/cli (install vue cli client globally)
 
 EXTRAS
 
