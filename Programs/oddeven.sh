@@ -5,8 +5,8 @@ do
 Q=`expr $NUM % 2`
 if [ $Q -eq 0 ]
 then
-echo "found even number"
+echo "Found even number"
 continue
 fi
-echo "found odd number"
+echo "Found odd number"
 done

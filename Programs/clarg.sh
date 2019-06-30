@@ -1,7 +1,7 @@
 #!/bin/sh
-echo "file name: $0"
-echo "first parameter: $1"
-echo "second parameter: $2"
-echo "quoted values: $@"
-echo "quoted values: $*"
-echo "total number of parameter: $#"
+echo "File name: $0"
+echo "First parameter: $1"
+echo "Second parameter: $2"
+echo "Quoted values: $@"
+echo "Quoted values: $*"
+echo "Total number of parameter: $#"
