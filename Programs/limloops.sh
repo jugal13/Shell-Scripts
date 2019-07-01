@@ -1,4 +1,6 @@
 #!/bin/sh
+
+# while loop stops at 5
 a=1
 while [ $a -lt 10 ]
 do

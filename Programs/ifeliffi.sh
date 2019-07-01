@@ -1,4 +1,6 @@
 #!/bin/sh
+
+# if else if 
 if [ $1 -eq $2 ]
 then
 echo "A is equal to B"

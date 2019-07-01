@@ -1,4 +1,6 @@
 #!/bin/sh
+
+#Check for odd and event 
 NUMS="1 2 3 4 5 6 7"
 for NUM in $NUMS
 do
